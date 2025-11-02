@@ -1,0 +1,42 @@
+[
+  {
+    "name": "GamanJS",
+    "rps": {
+      "avg": 3478.55,
+      "min": 1440,
+      "max": 4379,
+      "total": 38263
+    },
+    "latency": {
+      "avg": 28.21,
+      "p50": 23,
+      "p99": 76
+    },
+    "throughput": {
+      "avg": "0.73 MB/s",
+      "total": "8.03 MB"
+    },
+    "errors": 0,
+    "timeouts": 0
+  },
+  {
+    "name": "NestJS",
+    "rps": {
+      "avg": 3405.37,
+      "min": 1969,
+      "max": 3718,
+      "total": 37457
+    },
+    "latency": {
+      "avg": 28.87,
+      "p50": 27,
+      "p99": 41
+    },
+    "throughput": {
+      "avg": "0.78 MB/s",
+      "total": "8.54 MB"
+    },
+    "errors": 0,
+    "timeouts": 0
+  }
+]

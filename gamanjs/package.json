@@ -1,0 +1,19 @@
+{
+  "name": "gamanjs",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "gaman dev",
+    "build": "gaman build",
+    "start": "gaman start"
+  },
+  "keywords": [],
+  "author": "",
+  "description": "",
+  "dependencies": {
+    "@gaman/cli": "^1.2.8",
+    "@gaman/common": "^1.2.8",
+    "@gaman/core": "^1.2.8"
+  }
+}
